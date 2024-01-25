@@ -1,1 +1,1 @@
-# Calc
+### This is a calculator that I started months ago and just finished. I thought I already had a repo, but did not so now here it is complete! I will most likely come back and make changes to it as I get better with coding!
